@@ -1,2 +1,2 @@
-# cursoloco1
+# cursoloco
 Mi primer repo
